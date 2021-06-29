@@ -5,9 +5,11 @@
 -
 
 <p align-items: center>
-  <img src='projects-images/Counter.png' width='200'>
+  <img src='projects-images/Counters.png' width='200'>
 </p>
 
 <p align-items: center>
+  <img src='projects-images/Gallery.png' width='200'>
+</p><p align-items: center>
   <img src='projects-images/Gallery.png' width='200'>
 </p>
