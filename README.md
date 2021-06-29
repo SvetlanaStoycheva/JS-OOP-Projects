@@ -2,5 +2,12 @@
 
 #### Two Counters. Part of John Smilga's JS Tutorial
 
-- ![Counters Project Screenshot](/project-images/counter)
-  ![Gallery Project Screenshot](/project-images/gallery)
+-
+
+<p align-items: center>
+  <img src='project-images/counter.png' width='200'>
+</p>
+
+<p align-items: center>
+  <img src='project-images/gallery.png' width='200'>
+</p>
