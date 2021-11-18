@@ -16,11 +16,11 @@
 
 <p align-items: center>
   <img src='projects-images/Gallery.png' width='200'>
-</p><
+</p>
 <p align-items: center>
   <img src='projects-images/Gallery_02.png' width='200'>
-</p><
+</p>
 <p align-items: center>
-  <img src='projects-images/Gallery.png_03' width='200'>
-</p><
+  <img src='projects-images/Gallery_03.png' width='200'>
+</p>
 :heart:
