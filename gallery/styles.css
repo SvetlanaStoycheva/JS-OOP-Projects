@@ -195,11 +195,14 @@ Modal
   opacity: 1;
   z-index: 999;
 }
+.main-img {
+  padding-top: 2rem;
+}
 .close-btn {
   position: absolute;
   top: 1rem;
-  right: 1rem;
-  font-size: 3rem;
+  right: 3rem;
+  font-size: 2rem;
   color: var(--clr-white);
   background: transparent;
   border-color: transparent;
@@ -209,7 +212,6 @@ Modal
 .prev-btn {
   position: absolute;
   top: 10rem;
-  right: -2.5rem;
   transform: translateY(-50%);
   background: transparent;
   font-size: 2rem;
@@ -217,16 +219,11 @@ Modal
   border-color: transparent;
   cursor: pointer;
 }
-.prev-btn {
-  left: -2.5rem;
+.next-btn {
+  right: -2rem;
 }
-@media screen and (min-width: 768px) {
-  .prev-btn {
-    left: -4rem;
-  }
-  .next-btn {
-    right: -4rem;
-  }
+.prev-btn {
+  left: -2rem;
 }
 
 .modal-content {
@@ -263,4 +260,16 @@ Modal
 }
 .modal-img.selected {
   opacity: 1;
+}
+
+@media screen and (min-width: 768px) {
+  .prev-btn {
+    left: -3rem;
+  }
+  .next-btn {
+    right: -3rem;
+  }
+  .close-btn {
+    right: 6rem;
+  }
 }
