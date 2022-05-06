@@ -201,7 +201,7 @@ Modal
 .close-btn {
   position: absolute;
   top: 1rem;
-  right: 3rem;
+  right: 1rem;
   font-size: 2rem;
   color: var(--clr-white);
   background: transparent;
